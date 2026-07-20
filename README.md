@@ -29,6 +29,25 @@ This project implements a Battery Management System (BMS) in MATLAB Simulink for
 - CAN communication
 - Battery thermal management
 
+
+## Project Images
+
+### Complete BMS Model
+
+![Final Model](Final.png)
+
+### Charging Circuit
+
+![Charging Circuit](Charging_Circuit.png)
+
+### Protection and Mode Detection
+
+![Protection](Protection&ModeDetection.png)
+
+### SOC Estimation
+
+![SOC](SOC.png)
+
 ## Author
 Aditya Raj Shekhar
 B.Tech Electrical & Electronics Engineering
